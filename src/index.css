@@ -24,6 +24,11 @@ table {
  
 }
 
+table.hide {
+  display:none;
+ 
+}
+
 /*
 table tbody>tr>td>span:not(:first-child):before {
   content:' ,';
